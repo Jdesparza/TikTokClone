@@ -1,0 +1,10 @@
+* yarn add react-native-vector-icons
+    ** npx pod-install ios
+* yarn add react-native-video
+
+* Navigation
+    ** yarn add @react-navigation/native @react-navigation/bottom-tabs
+    Dependencies: yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+* yarn add react-native-linear-gradient
+    ** react-native link react-native-linear-gradient
